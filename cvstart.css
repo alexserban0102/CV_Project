@@ -1,1 +1,28 @@
-body{}
+html{
+    background-color: white;
+}
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
+div [id="contact-info"]{
+    border-bottom: 1px solid black;
+}
+div [id="profile"]{
+    border-bottom: 1px solid black;
+}
+div [id="skills"]{
+    border-bottom: 1px solid black;
+}
+div [id="technical"]{
+    border-bottom: 1px solid black;
+}
+div [id="experience"]{
+    border-bottom: 1px solid black;
+}
+div [id="education"]{
+    border-bottom: 1px solid black;
+}
