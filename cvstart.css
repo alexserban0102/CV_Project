@@ -1,24 +1,5 @@
 
-div [id="contact-info"]{
-    border-bottom: 1px solid black;
-}
-
-div [id="profile"]{
-    border-bottom: 1px solid black;
-}
-
-div [id="skills"]{
-    border-bottom: 1px solid black;
-}
-
-div [id="technical"]{
-    border-bottom: 1px solid black;
-}
-
-div [id="experience"]{
-    border-bottom: 1px solid black;
-}
-
-div [id="education"]{
-    border-bottom: 1px solid black;
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }
