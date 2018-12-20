@@ -1,5 +1,18 @@
 
 .wrapper {
     display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.box1 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.box2 {
+    display: grid;
+    grid-template-columns: repeat(2, 0.5fr 1fr);
+}
+.subbox4 {
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
