@@ -5,3 +5,15 @@ body {
   .w3-text-white{
     text-shadow: 2px 2px 4px #000000;
   }
+  .w3-teal-skill{
+    color:#fff!important;
+    background-color: #a3586d;   
+  }
+  .w3-teal-technical{
+    color:#fff!important;
+    background-color: #5c4a72;   
+  }
+  .w3-teal-languages{
+    color:#fff!important;
+    background-color: #f3b05a;   
+  }
