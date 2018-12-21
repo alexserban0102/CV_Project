@@ -2,3 +2,6 @@ body {
     background-image: url(./Abstract-Background-HD-Wallpaper-14095.jpg);
     background-attachment: fixed;
   }
+  .w3-text-white{
+    text-shadow: 2px 2px 4px #000000;
+  }
